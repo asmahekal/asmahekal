@@ -1,4 +1,5 @@
 👩‍🏫 Dr. Asmaa A. Hekal
+
 ✨ Lecturer | AI Researcher | Mentor | Tech Enthusiast ✨
 
 Hey there! 😊 I'm a Ph.D. in Electronic and Communication Engineering, specializing in Artificial Intelligence and Computer Vision. I’m all about exploring the magic of AI ✨—from medical image analysis to AI-powered recommendation systems, deep learning, and machine learning. My work includes image processing, object detection, classification, and automation, making AI smarter and more impactful!
